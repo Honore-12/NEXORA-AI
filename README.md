@@ -14,7 +14,7 @@
 - [⚙️ Requirements](#-requirements)
 - [🚀 How to Run](#-how-to-run)
 - [🧩 Technologies Used](#-technologies-used)
-- [👨‍💻 Author](#-author)
+- [👨🏻‍💻 Author](#-author)
 - [📜 License](#-license)
 
 ---
@@ -150,9 +150,9 @@ python NEXORA AI.py
 
 ---
 
-## 👨‍💻 Author
+## 👨🏻‍💻 Author
 
-Made with ❤️ by [Vishnu](https://github.com/Vishnu-tppr)
+Made with ❤️ by [Vishnu](https://www.linkedin.com/in/vishnu-v-31583b327/)
 
 > “Coded not just with Python, but with passion.” 💻✨
 
