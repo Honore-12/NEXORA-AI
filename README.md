@@ -2,6 +2,7 @@
 # 🔮 Nexora AI – Your Interactive Voice AGENT 🎙️✨
 
 > 🧠 A smart, speech-powered assistant built in Python with a beautiful GUI. Nexora listens to your commands and acts like magic – whether it’s sending WhatsApp messages, controlling system volume, telling jokes, or doing math!
+> Next + Aura = NEXORA 😩✨
 
 ---
 
