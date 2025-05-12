@@ -1,0 +1,12 @@
+pip install customtkinter
+pip install pyttsx3
+pip install SpeechRecognition
+pip install playsound
+pip install PyAutoGUI
+pip install Pillow
+pip install comtypes
+pip install pycaw
+pip install wikipedia
+pip install pyjokes
+pip install pywhatkit
+pip install word2number
