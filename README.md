@@ -8,7 +8,7 @@
 ## 📌 Table of Contents
 
 - [✨ Features](#-features)
-- [💻 Demo](#-demo)
+- [💻 Demo Screenshots](#-demo)
 - [🧠 How It Works](#-how-it-works)
 - [📁 File Structure](#-file-structure)
 - [⚙️ Requirements](#-requirements)
