@@ -152,7 +152,7 @@ python NEXORA AI.py
 
 ## 👨🏻‍💻 Author
 
-Made with ❤️ by [Vishnu](https://www.linkedin.com/in/vishnu-v-31583b327/)
+Made with 💖✨ by [Vishnu](https://www.linkedin.com/in/vishnu-v-31583b327/)
 
 > “Coded not just with Python, but with passion.” 💻✨
 
